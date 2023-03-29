@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Intents</string>
+    <string name="custom_call">Call</string>
+    <string name="custom_location">Location</string>
+    <string name="custom_web">Browse</string>
+    <string name="custom_camera">Take a Picture</string>
+    <string name="chooser_title">Choose an application</string>
+
+</resources>
